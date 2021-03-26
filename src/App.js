@@ -10,6 +10,7 @@ function App() {
       <BarraMenu />
       <hr/>
       <Alumnos/>
+    <h1> Esta es la pagina principal</h1>
     </div>
   );
 }
