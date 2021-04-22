@@ -11,6 +11,7 @@ function App() {
       <hr/>
       <Alumnos/>
     <h1> Esta es la pagina principal</h1>
+    <h1>Pagina de prueba</h1>
     </div>
   );
 }
